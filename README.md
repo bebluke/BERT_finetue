@@ -44,12 +44,10 @@ The emotions are divided into 8 categories as below. After finetune, enter the t
 ```
 ## Result
 
-[Record](https://youtu.be/qXIXB6XuU4A)
+[record video](https://youtu.be/qXIXB6XuU4A)
 
 
 ## Others
-...
-![train/global_step](.output/trainglobal_step.png)
-![eval/f1](.output/evalf1.png)
-![eval/loss](.output/evalloss.png)
-...
+![train/global_step](./output/trainglobal_step.png)
+![eval/f1](./output/evalf1.png)
+![eval/loss](./output/evalloss.png)
