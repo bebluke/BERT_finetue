@@ -43,10 +43,13 @@ The emotions are divided into 8 categories as below. After finetune, enter the t
 "厭惡語調": 7
 ```
 ## Result
-...
-[影片名稱或其它標題](你的影片連結)
-...
+
+[Record](https://youtu.be/qXIXB6XuU4A)
+
 
 ## Others
 ...
+![train/global_step](.output/trainglobal_step.png)
+![eval/f1](.output/evalf1.png)
+![eval/loss](.output/evalloss.png)
 ...
