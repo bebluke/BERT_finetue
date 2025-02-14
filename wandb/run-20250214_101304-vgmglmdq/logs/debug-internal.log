@@ -1,0 +1,7 @@
+{"time":"2025-02-14T10:13:04.9533954+08:00","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"c:\\Users\\Administrator\\Downloads\\python_nlp-master\\cases\\bert_finetune\\BERT_finetune\\wandb\\run-20250214_101304-vgmglmdq\\logs\\debug-core.log"}
+{"time":"2025-02-14T10:13:05.1709615+08:00","level":"INFO","msg":"created new stream","id":"vgmglmdq"}
+{"time":"2025-02-14T10:13:05.1709615+08:00","level":"INFO","msg":"stream: started","id":"vgmglmdq"}
+{"time":"2025-02-14T10:13:05.1709615+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"vgmglmdq"}
+{"time":"2025-02-14T10:13:05.1709615+08:00","level":"INFO","msg":"sender: started","stream_id":"vgmglmdq"}
+{"time":"2025-02-14T10:13:05.1709615+08:00","level":"INFO","msg":"handler: started","stream_id":"vgmglmdq"}
+{"time":"2025-02-14T10:13:05.5937159+08:00","level":"INFO","msg":"Starting system monitor"}
